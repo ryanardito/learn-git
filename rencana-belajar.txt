@@ -1,0 +1,6 @@
+Rencana belajar
+
+- Belajar GIT
+- Belajar DOM
+  # Mendalami JavaScript
+- Belajar React
