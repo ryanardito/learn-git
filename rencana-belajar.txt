@@ -1,5 +1,6 @@
 Rencana belajar
 
+- Belajar UX dari 0
 - Belajar GIT
 - Belajar DOM
   # Mendalami JavaScript
