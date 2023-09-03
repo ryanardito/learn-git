@@ -5,5 +5,4 @@ Rencana belajar
   # Latihan design system
 - Belajar GIT
 - Belajar DOM
-  # Mendalami JavaScript
 - Belajar React
