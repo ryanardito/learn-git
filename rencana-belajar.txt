@@ -1,7 +1,8 @@
 Rencana belajar
 
 - Belajar UX dari 0
-  # Belajar fundamental design
+  # Baca buku tentang desain
+  # Latihan design system
 - Belajar GIT
 - Belajar DOM
 - Belajar React
